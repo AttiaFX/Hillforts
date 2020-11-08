@@ -40,7 +40,6 @@ class HillfortJSONStore : HillfortStore, AnkoLogger {
 
 
   override fun update(hillfort: HillfortModel) {
-    // todo
   }
 
   private fun serialize() {
