@@ -13,6 +13,6 @@ Main App View :
 
 ![alt text](https://github.com/AttiaFX/Hillforts/blob/main/Screenshots/Screenshot%202020-11-08%20at%2022.22.59.png?raw=true)
 
-Creat Hillfort View :
+Create Hillfort View :
 
 ![alt text](https://github.com/AttiaFX/Hillforts/blob/main/Screenshots/Screenshot%202020-11-08%20at%2022.16.22.png?raw=true)
